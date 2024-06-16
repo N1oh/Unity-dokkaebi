@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - SkillButtons
+  - CreatedButtons
+  - Area
+  - object
+  - Event
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Cylinder
+  - Water
+  - UI
+  - Player
+  - Item
+  - object
+  - icon
+  - Tree
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 397347137
+    locked: 0
+  - name: Plant
+    uniqueID: 3921008803
+    locked: 0
+  - name: Item
+    uniqueID: 3016912693
+    locked: 0
+  - name: Player
+    uniqueID: 3751377729
+    locked: 0
+  - name: Object
+    uniqueID: 3051850353
+    locked: 0
